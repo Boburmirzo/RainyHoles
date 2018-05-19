@@ -1,0 +1,4 @@
+ru\crxmarkets\rainholes\domain\Hole.class
+ru\crxmarkets\rainholes\service\HoleSurfaceVolumeService.class
+ru\crxmarkets\rainholes\domain\WaterVolume.class
+ru\crxmarkets\rainholes\controller\RainyHolesController.class
